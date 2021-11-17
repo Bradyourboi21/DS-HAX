@@ -7,5 +7,8 @@ put it in your ds.
 go to camera
 click album on sd
 click unlaunch
+click install now
+wait for it to finsih
+power off your dsi
 In the Unlaunch menu, go to OPTIONS.
 Set NO BUTTON to the second TWiLight Menu++ on the list
